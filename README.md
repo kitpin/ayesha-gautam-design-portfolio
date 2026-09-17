@@ -13,12 +13,14 @@ UI/UX website design and visual design work for an AI-powered business automatio
 
 ### Aakarshan International
 Website UI design and graphic design materials including branding assets, social media graphics, banners, forms, stationery, and brand guideline materials.
+(**https://aakarshaninternational.netlify.app/**)
 
 ### BYAS IT
 Website UI concepts, brand guideline design, logo-related work, business card, ID card, letterhead, email signature, and other digital design materials.
 
 ### Growth
 Website interface and layout design focused on creating a clean, structured, and user-friendly digital experience.
+(**https://growthequity.netlify.app/**)
 
 ## Skills
 
